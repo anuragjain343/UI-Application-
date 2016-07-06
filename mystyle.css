@@ -1,0 +1,291 @@
+body
+{
+margin:0px;
+padding:0px;
+}
+/* header part*/
+#logo{
+	border:0px solid red;
+	height:60px;
+	width:110px;
+	margin:12px;	
+}
+
+#header{
+	border:0px solid green;
+	height:60px;
+	width:1347px;
+	background-color:#FFFAFA;
+	box-shadow:10px 5px 5px 1px lightgray;
+}
+#header b{
+	float:right;
+	padding-right:650px;
+	font-family:arial;
+	font-size:25px;
+	padding-top:10px;
+}
+/* header part end*/
+
+
+/* body part start*/
+#body{
+	border:0px solid red;
+	height:780px;	
+}
+/* with in body option menu like catagory etc*/
+#contain1{
+	box-shadow:10px 5px 5px 1px lightgray;
+	border:1px solid green;
+	height:80px;
+    margin:30px;
+	background-color:#E58A77;  	
+}
+#contain1 ul
+{
+	
+	list-style:none;	
+}
+ #contain1 ul li
+ {
+	background-color:lightgray;
+    border:1px solid white;	
+	width:120px;
+	height:60px;
+	text-align:center;
+	line-height:40px;
+	float:left;
+	margin-left:180px;
+	border-radius:30px;		
+}
+ #contain1 ul li a
+ {  
+     text-decoration:none;
+	 color:black;
+	 display:block; 
+ }
+ #contain1 ul li a:hover
+ {
+	 background-color:lightgreen;
+	 border-radius:30px;
+ }
+ /* with in body option menu like catagory etc part end*/
+ 
+ /* with in body part shop address menu start*/
+ #contain2{
+	box-shadow:10px 5px 5px 1px lightgray;
+	border:1px solid green;
+	height:120px;
+    margin:30px;
+	border-radius:20px 50px;
+	padding-bottom:50px;
+	background-color:#E58A77;
+    	
+}
+   #subcontain21{
+	border:0px solid red;
+	height:60px;
+	width:90px;
+	margin:12px;	
+}
+ 
+ #subcontaintext1
+ {
+	border:0px solid red;
+	height:40px;
+	width:400px;
+	margin:12px;
+    float:left;	
+ }
+ #subcontain22 ul
+{
+	
+	list-style:none;
+	
+}
+ #subcontain22 ul li
+ {
+	background-color:#F85F5F;
+    border:1px solid white;	
+	width:120px;
+	height:60px;
+	text-align:center;
+	line-height:40px;
+	float:left;
+	margin-left:80px;
+	border-radius:30px;		
+}
+ #subcontain22 ul li a
+ {
+	 text-decoration:none;
+	 color:black;
+	 display:block;
+	 
+ }
+ #subcontain22 ul li a:hover
+ {
+	 background-color:lightgreen;
+	 border-radius:30px;
+ }
+  #contain3{
+	box-shadow:10px 5px 5px 1px lightgray;
+	border:1px solid green;
+	height:120px;
+    margin:30px;
+	border-radius:20px 50px;
+	padding-bottom:50px;
+	background-color:#E58A77;
+    	
+}
+ 
+ #subcontain31{
+	border:0px solid red;
+	height:60px;
+	width:90px;
+	margin:12px;	
+}
+ 
+ #subcontaintext2
+ {
+	border:0px solid red;
+	height:40px;
+	width:400px;
+	margin:12px;
+    float:left;	
+ } 
+ #subcontain32 ul
+{	
+	list-style:none;
+}
+ #subcontain32 ul li
+ {
+	background-color:#F85F5F;
+    border:1px solid white;	
+	width:120px;
+	height:60px;
+	text-align:center;
+	line-height:40px;
+	float:left;
+	margin-left:80px;
+	border-radius:30px;		
+}
+ #subcontain32 ul li a
+ {
+	 text-decoration:none;
+	 color:black;
+	 display:block;
+	 
+ }
+ #subcontain32 ul li a:hover
+ {
+	 background-color:lightgreen;
+	 border-radius:30px;
+ }
+ 
+  #contain4{
+	box-shadow:10px 5px 5px 1px lightgray;
+	border:1px solid green;
+	height:120px;
+    margin:30px;
+	border-radius:20px 50px;
+    padding-bottom:50px;
+	background-color:#E58A77;
+}
+
+
+#subcontain41{
+	border:0px solid red;
+	height:60px;
+	width:90px;
+	margin:12px;	
+}
+ 
+ #subcontaintext3
+ {
+	border:0px solid red;
+	height:40px;
+	width:400px;
+	margin:12px;
+    float:left;	
+ }
+ #subcontain42 ul
+{	
+list-style:none;	
+}
+ #subcontain42 ul li
+ {
+	background-color:#F85F5F;
+    border:1px solid white;	
+	width:120px;
+	height:60px;
+	text-align:center;
+	line-height:40px;
+	float:left;
+	margin-left:80px;
+	border-radius:30px;		
+}
+ #subcontain42 ul li a
+ {  
+     text-decoration:none;
+	 color:black;
+	 display:block;
+ }
+ #subcontain42 ul li a:hover
+ {
+	 background-color:lightgreen;
+	 border-radius:30px;
+ }
+#contain5{
+	box-shadow:10px 5px 5px 1px lightgray;
+	border:1px solid green;
+	height:120px;
+    margin:30px;
+	border-radius:20px 50px;
+	padding-bottom:50px;
+	background-color:#E58A77;
+    	
+}
+#subcontain51{
+	border:0px solid red;
+	height:60px;
+	width:90px;
+	margin:12px;	
+}
+ #subcontaintext4
+ {
+	border:0px solid red;
+	height:40px;
+	width:400px;
+	margin:12px;
+    float:left;	
+ }
+ #subcontain52 ul
+{
+	
+	list-style:none;
+	
+}
+ #subcontain52 ul li
+ {
+	background-color:#F85F5F;
+    border:1px solid white;	
+	width:120px;
+	height:60px;
+	text-align:center;
+	line-height:40px;
+	float:left;
+	margin-left:80px;
+	border-radius:30px;	
+}
+ #subcontain52 ul li a
+ {
+	 text-decoration:none;
+	 color:black;
+	 display:block;
+	 
+ }
+ #subcontain52 ul li a:hover
+ {
+	 background-color:lightgreen;
+	 border-radius:30px;
+ }
